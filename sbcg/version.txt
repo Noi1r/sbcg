@@ -1,0 +1,2 @@
+F:\Java\jdk-1.82 8
+C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot 11
